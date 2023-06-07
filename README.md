@@ -3,4 +3,4 @@ Esta es mi primera linea de README
 Esta es la tercera linea
 Esta es la cuarta linea
 La quinta linea va aquí
-Aquí no se genera conflicto
+Se generará un conflicto
