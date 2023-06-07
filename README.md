@@ -6,3 +6,4 @@ La quinta linea va aquí
 Se generará un conflicto
 Todos los conflictos fueron solucionados
 Mi primer linea de prueba
+Mi segunda linea de prueba
