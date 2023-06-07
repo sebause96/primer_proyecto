@@ -4,3 +4,4 @@ Esta es la tercera linea
 Esta es la cuarta linea
 La quinta linea va aquí
 Se generará un conflicto
+Todos los conflictos fueron solucionados
